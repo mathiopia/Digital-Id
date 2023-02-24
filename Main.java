@@ -13,7 +13,7 @@ public class Main {
         Main self = new Main();
 
         while(true){
-          var whereAt = self.DisplayOption(self.FirstOption,"where are you at ? am i correct");
+          var whereAt = self.DisplayOption(self.FirstOption,"where are you at ?");
           if(whereAt == 0 || whereAt == 1 || whereAt == 2 ) self.view(whereAt);
           else System.exit(0);
         }
