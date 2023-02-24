@@ -1,0 +1,6 @@
+8687565,Fitsum,wondessen,meseret,0,123456
+7436350,nahom,getu,tsehay,0,12345
+4196442,abebe,kebede,chaltu,0,78910
+834955,jgk,3456,567,567,567
+1464344,fitsum,wondessen,meserte,1993,12456
+1998148,fitsum,wondessen,mesest,1993,12345

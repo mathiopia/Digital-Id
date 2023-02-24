@@ -1,0 +1,3 @@
+8687565,Fitsum wondessen,2015,kality,false,123456
+1477601,Fuad Akmel,19,bella,false,8687565
+3921201,fitsum\ wondessen,-17919,aa,true,0

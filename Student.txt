@@ -1,0 +1,7 @@
+8687565,Fitsum,wondessen,2015,3rdYearElectrical,123456
+5007515,haile,feseha,2015,3rdYearElectrical,null
+7436350,nahom,getu,2015,12c,12345
+4196442,abebe,kebede,2015,5B,78910
+8965761,test,test,22,dog,1234567
+1464344,fitsum,wondessen,22,3rd year,12456
+1998148,fitsum,wondessen,22,12c,12345
